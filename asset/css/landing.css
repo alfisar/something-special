@@ -34,6 +34,18 @@ body, html {
     text-align: center;
     }
 
+    .textspecial {
+        margin: auto;
+        padding-bottom: 25px;
+        font-size: 30px;
+    }
+
+    .headerSoon {
+        margin-bottom: 5px; /* This is the space below the line */
+        padding-bottom: 10px; /* This is the space between the heading text and the line */
+        font-size: 70px
+    }
+
     hr {
     margin: auto;
     width: 40%;
