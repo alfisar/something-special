@@ -24,6 +24,6 @@ document.getElementById("demo").innerHTML = days + "d " + hours + "h "
 // If the count down is finished, write some text
 if (distance < 0) {
     clearInterval(x);
-    window.location.assign("special.html");
+    window.location.assign("pageone.html");
 }
 }, 1000);
